@@ -1,1 +1,8 @@
-Info: Nothing to build for RobotTryCommand
+08:19:34 **** Incremental Build of configuration Debug for project RobotTryCommand ****
+Info: Internal Builder is used for build
+arm-frc-linux-gnueabi-g++ -std=c++1y "-IC:\\Users\\robot/wpilib/cpp/current/include" "-IC:\\Users\\robot\\eclipse-workspace\\RobotTryCommand(6-16-2018)\\RobotTryCommand\\src" "-IC:\\Users\\robot/wpilib/user/cpp/include" -O0 -Og -g3 -Wall -c -fmessage-length=0 -pthread -o "src\\Subsystems\\Winch.o" "..\\src\\Subsystems\\Winch.cpp" 
+arm-frc-linux-gnueabi-g++ -std=c++1y "-IC:\\Users\\robot/wpilib/cpp/current/include" "-IC:\\Users\\robot\\eclipse-workspace\\RobotTryCommand(6-16-2018)\\RobotTryCommand\\src" "-IC:\\Users\\robot/wpilib/user/cpp/include" -O0 -Og -g3 -Wall -c -fmessage-length=0 -pthread -o "src\\Subsystems\\Claw.o" "..\\src\\Subsystems\\Claw.cpp" 
+arm-frc-linux-gnueabi-g++ "-LC:\\Users\\robot/wpilib/common/current/lib/linux/athena/shared" "-LC:\\Users\\robot/wpilib/cpp/current/reflib/linux/athena/shared" "-LC:\\Users\\robot/wpilib/user/cpp/lib" -pthread -rdynamic -Wl,-rpath,/opt/GenICam_v3_0_NI/bin/Linux32_ARM,-rpath,/usr/local/frc/lib -o FRCUserProgram "src\\Commands\\Autonomous\\Default.o" "src\\Commands\\Autonomous\\Left.o" "src\\Commands\\Autonomous\\Middle.o" "src\\Commands\\Autonomous\\Right.o" "src\\Commands\\ClawToggle.o" "src\\Commands\\DriveStraight.o" "src\\Commands\\JoyArm.o" "src\\Commands\\MoveArm.o" "src\\Commands\\TankDrive.o" "src\\Commands\\Turn.o" "src\\Commands\\WinchWinch.o" "src\\Joysticks.o" "src\\Robot.o" "src\\Subsystems\\Arm.o" "src\\Subsystems\\Claw.o" "src\\Subsystems\\DriveTrain.o" "src\\Subsystems\\Gyro.o" "src\\Subsystems\\Winch.o" "src\\Subsystems\\WinchEncoder.o" -lwpi 
+
+08:19:37 Build Finished (took 2s.376ms)
+
