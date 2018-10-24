@@ -6,6 +6,8 @@ MyClaw::MyClaw() : Subsystem("Claw") {}
 
 void MyClaw::InitDefaultCommand(){}
 
+
+//gets claw state
 void MyClaw::toggleClaw(){
 	if (open){
 		clawsol.Set(frc::DoubleSolenoid::Value::kForward);
