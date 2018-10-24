@@ -1,0 +1,31 @@
+#include "ClawOpen.h"
+#include "../Robot.h"
+
+ClawOpen::ClawOpen() {
+	Requires(&Robot::claw);
+}
+
+void ClawOpen::Initialize() {
+
+}
+
+// Called repeatedly when this Command is scheduled to run
+void ClawOpen::Execute() {
+
+}
+
+// Make this return true when this Command no longer needs to run execute()
+bool ClawOpen::IsFinished() {
+	return false;
+}
+
+// Called once after isFinished returns true
+void ClawOpen::End() {
+
+}
+
+// Called when another command which requires one or more of the same
+// subsystems is scheduled to run
+void ClawOpen::Interrupted() {
+
+}

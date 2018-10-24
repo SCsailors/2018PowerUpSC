@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\robot\eclipse-workspace\RobotTryCommand(6-16-2018)"/>
+		<item value="C:\Users\robot\eclipse-workspace\RobotTryCommand(6-6-2018)\RobotTryCommand"/>
+		<item value="C:\Users\robot\eclipse-workspace\RemoteSystemsTempFiles\RobotTry(6-6-2018)\RobotTry"/>
+	</list>
+	<section name="NewWizardAction">
+		<item value="edu.wpi.first.wpilib.plugins.cpp.wizards.examples.ExampleWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="edu.wpi.first.wpilib.plugins.cpp"/>
+		</list>
+	</section>
+</section>

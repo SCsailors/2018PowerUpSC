@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;RobotTryCommand/src/Commands/Wait.h&apos;" deleteContents="false" description="Delete resource &apos;RobotTryCommand/src/Commands/Wait.h&apos;" element1="/RobotTryCommand/src/Commands/Wait.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1538075237884"/>&#x0A;<refactoring comment="Delete resource &apos;RobotTryCommand/src/Commands/Wait.cpp&apos;" deleteContents="false" description="Delete resource &apos;RobotTryCommand/src/Commands/Wait.cpp&apos;" element1="/RobotTryCommand/src/Commands/Wait.cpp" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1538075275285"/>
+</session>

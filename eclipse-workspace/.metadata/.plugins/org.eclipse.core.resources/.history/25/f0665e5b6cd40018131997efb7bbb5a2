@@ -1,0 +1,15 @@
+#include "ClawOpen.h"
+#include "../Robot.h"
+
+ClawOpen::ClawOpen() {
+	Requires(&Robot::claw);
+}
+
+void ClawOpen::Initialize() {
+
+}
+
+bool ClawOpen::IsFinished() {
+	return false;
+}
+
