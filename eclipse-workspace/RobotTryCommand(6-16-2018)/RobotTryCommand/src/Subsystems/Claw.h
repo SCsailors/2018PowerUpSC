@@ -5,6 +5,7 @@
 #include <SmartDashBoard/SmartDashBoard.h>
 #include "Subsystems/Claw.h"
 
+//header for claw and sets open variable
 class MyClaw : public frc::Subsystem {
 public:
 	MyClaw();
